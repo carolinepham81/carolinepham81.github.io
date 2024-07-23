@@ -34,6 +34,9 @@ table {
 	line-height: 1.5;
 	font-size: 16px;
 }
+table td, table th {
+	padding: 8px;
+}
 #menu_text{
 	background-color: #2e5e7b;
 	color: white;
